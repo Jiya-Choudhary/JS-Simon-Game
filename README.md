@@ -46,7 +46,6 @@ This project helped me strengthen my understanding of:
 * DOM Manipulation
 * Event Listeners
 * Functions
-* Arrays and Array Comparison
 * Conditional Statements
 * Random Number Generation
 * Game Logic
